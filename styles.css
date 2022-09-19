@@ -1,0 +1,76 @@
+body{
+ width: 30%;
+ height: fit-content;
+}
+
+.principal{
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.imgHTML{
+    display: flex;
+    flex-direction: row;
+    font-size: 35px;
+    margin: 10px;
+   
+}
+
+.fa-brands,.fab{
+    display: flex;
+    margin-right:10px;
+}
+
+.usuario{
+    display: flex;
+    flex-direction: column;
+    margin-right: 200px;
+}
+
+h3{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+   
+}
+
+
+.dPuntos{
+    display: flex;
+    font-size: 25px;
+    width: 20%;
+    justify-content: right; 
+}
+/*Fin del header*/
+
+
+/* Imagen montaña */
+
+.imgMountain{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+/*Barra likes*/
+
+
+.logos{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+   
+   
+}
+
+.lorem {
+    margin: 10px;
+    text-align: justify;
+}
