@@ -1,5 +1,3 @@
-# instagramPost
-
 ### Proyecto: Recreación de un Post de Instagram
 
 Este proyecto consiste en recrear visualmente un post de Instagram utilizando HTML y CSS. Se ha utilizado HTML5 para la estructura del documento y CSS para estilizar los elementos y darles formato.
